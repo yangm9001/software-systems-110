@@ -84,5 +84,34 @@ Complete all of the following in your notes section.
 
 # Section 3: Student Notes
 
-Delete this line and write your notes here.
+# Git Lab 1
+
+## Git Lab 2
+
+### Git Lab 3
+
+---
+
+**Git Lab**
+
+*Git Lab*
+
+- Apples
+- Oranges
+- Bananas
+
+1. Apples
+2. Oranges
+3. Bananas
+
+- [x] Sleep
+- [x] Eat
+- [ ] Work 
+
+[Google](https://google.com)
+
+
+
+
+
 
